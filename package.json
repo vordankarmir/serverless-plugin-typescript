@@ -68,7 +68,7 @@
     "lodash": "^4.17.21"
   },
   "peerDependencies": {
-    "serverless": "2 || 3",
+    "serverless": "1.x || 2.x || 3.x || 4.x",
     "typescript": ">=2.2.2"
   },
   "jest": {
